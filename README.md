@@ -2,7 +2,6 @@
 
 ### 📄 **`README.md`**
 
-```markdown
 # 🚀 Yay (SNS) C++ API Wrapper
 
 A lightweight, high-performance C++ wrapper for the Yay (SNS) API.  
