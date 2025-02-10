@@ -32,7 +32,7 @@ But hey, it's a start.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/yay-cpp-wrapper.git
+git clone https://github.com/xbkv/yay-cpp-wrapper.git
 cd yay-cpp-wrapper
 mkdir build && cd build
 cmake ..
